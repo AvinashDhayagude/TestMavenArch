@@ -24,13 +24,13 @@
   
   <scm>
   	<connection>
-	  	scm:git:git@github.com:AvinashDhayagude/TestMavenArch.git
+	  	scm:git:https://github.com/AvinashDhayagude/TestMavenArch.git
 	</connection>
   	<url>
-  	  	scm:git:git@github.com:AvinashDhayagude/TestMavenArch.git
+  	  	scm:git:https://github.com/AvinashDhayagude/TestMavenArch.git
   	</url>
   	<developerConnection>
-  	 	 scm:git:git@github.com:AvinashDhayagude/TestMavenArch.git
+  	 	 scm:git:https://github.com/AvinashDhayagude/TestMavenArch.git
   	</developerConnection>  
     <tag>Y</tag>
   </scm>
