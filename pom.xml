@@ -3,7 +3,7 @@
 
   <groupId>org.javabrains.avinash</groupId>
   <artifactId>TestMavenArch</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <packaging>jar</packaging>
 
   <name>TestMavenArch</name>
@@ -32,7 +32,7 @@
   	<developerConnection>
   	 	 scm:git:https://github.com/AvinashDhayagude/TestMavenArch.git
   	</developerConnection>  
-    <tag>Y</tag>
+    <tag>TestMavenArch-1.2</tag>
   </scm>
 
 	 <build>
