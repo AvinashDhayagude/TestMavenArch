@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.008" errors="0" skipped="0" tests="1" name="org.javabrains.avinash.AppTest">
+<testsuite failures="0" time="0.003" errors="0" skipped="0" tests="1" name="org.javabrains.avinash.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_75\jre\bin"/>
@@ -33,6 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="51.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="maven.repo.local" value="C:\Users\avinash.dhayagude\.m2\repository"/>
     <property name="os.version" value="6.1"/>
     <property name="user.home" value="C:\Users\avinash.dhayagude"/>
     <property name="user.timezone" value="Asia/Calcutta"/>
@@ -44,7 +45,7 @@
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_75\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -D maven.repo.local=C:\Users\avinash.dhayagude\.m2\repository -s C:\Users\avinash.dhayagude\AppData\Local\Temp\release-settings2740127929471780267.xml clean verify"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -61,5 +62,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="0.008" classname="org.javabrains.avinash.AppTest" name="testApp"/>
+  <testcase time="0.003" classname="org.javabrains.avinash.AppTest" name="testApp"/>
 </testsuite>
